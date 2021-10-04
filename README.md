@@ -29,9 +29,12 @@ JavaScript
 HTML
 CSS
 
-## Credits
+## Credits/Software Used
+Lutris - allowing me to run Balsamiq in a Windows wrapper
 Balsamiq - prototyping and wireframing
 Coolors.co - color scheme <https://coolors.co/ffe74c-ff8811-3066be-c83e4d-17b890>
+Jente Hidskes - Color Picker via Discover(lubuntu)
+Mario Behling - for creating Lubuntu 
 
 
 
