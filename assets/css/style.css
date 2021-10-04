@@ -1,0 +1,40 @@
+/* IMPORT FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Voltaire&display=swap');
+
+body {
+    background-color: #265198;
+    color: #fff;
+}
+
+/* HEADINGS */
+
+h1 {
+    font-family: "Voltaire", sans-serif;
+    font-size: 6em;
+    text-transform: uppercase;;
+}
+
+
+/* COLORS */
+
+.btn-yellow {
+    background-color: #FFE74C;
+}
+
+.btn-mintchoc {
+    background-color: #17B890;
+}
+
+.btn-orange {
+    background-color: #FF8811;
+}
+
+.btn-red {
+    background-color: #C83E4D;
+}
+
+/* UTILITY */ 
+
+.uppercase {
+    text-transform: uppercase;
+}
