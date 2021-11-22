@@ -24,19 +24,17 @@ A simple memory game, in which the user decides has 45 seconds to select all the
 * As a returning visitor, I want to be able to view the leaderboards.
 
 ## Technologies Used
-Bootstrap
-JavaScript
-HTML
-CSS
+Bootstrap  
+JavaScript  
+HTML  
+CSS  
 
 ## Credits/Software Used
-Lutris - allowing me to run Balsamiq in a Windows wrapper
-Balsamiq - prototyping and wireframing
-Coolors.co - color scheme <https://coolors.co/ffe74c-ff8811-3066be-c83e4d-17b890>
-Jente Hidskes - Color Picker via Discover(lubuntu)
-Mario Behling - for creating Lubuntu 
-
-
+Lutris - allowing me to run Balsamiq in a Windows wrapper  
+Balsamiq - prototyping and wireframing  
+Coolors.co - color scheme <https://coolors.co/ffe74c-ff8811-3066be-c83e4d-17b890>  
+Jente Hidskes - Color Picker via Discover(lubuntu)  
+Mario Behling - for creating Lubuntu  
 
 
 
